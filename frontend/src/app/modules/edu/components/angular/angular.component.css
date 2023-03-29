@@ -1,0 +1,19 @@
+.imagesize{border-radius: 10px;border:2px solid gray;padding:20px;}
+.containers{background-color: 
+    #6674cc;}
+.card{left: 1100px;
+    background-color: #dadef3;
+    padding: 10px;}
+    .text-decoration{text-decoration:line-through}
+    .margin-top{margin-top:20px}
+
+    .position{position: absolute; top:180px;left:180px}
+    .yearpadding{position: relative;
+        left: 80px;}
+        .padding{padding-left:150px}
+       .optionsheading{width:700px;height:50px; text-align: left;background-color:
+        
+        #e0e3f5;font-size:22px;color:black}
+       .text-left{text-align: left; background-color: white; color:#6674cc;font-size:22px}
+a{width:700px}
+.table{text-align: left;}

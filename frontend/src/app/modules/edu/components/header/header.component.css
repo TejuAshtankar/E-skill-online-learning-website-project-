@@ -1,0 +1,9 @@
+.navbarwidth{width: 1100px;}
+.text-right{position: relative; left :900px;}
+.text-black{color:black}
+.disableDiv{
+    pointer-events:none;
+}
+#nav-link a:active {
+	color:  solid red;
+}

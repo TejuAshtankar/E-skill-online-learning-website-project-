@@ -1,0 +1,40 @@
+/* You can add global styles to this file, and also import other style files */
+.carosel .owl-next , .carosel .owl-prev{
+    background-color: rgb(149 137 137)!important;
+    color: #222!important;
+    height: 60px!important;
+    width: 60px!important;
+    border-radius: 50%!important;
+position:absolute;
+top:50%
+}
+
+.carosel .owl-next{
+    right:-130px;
+    top:px;
+    transform: translate(-50% , -50%);
+}
+
+.carosel .owl-prev{
+    left: -100px;
+   
+    transform: translate(-50% , -50%);
+}
+.carosel .owl-next i, .carosel .owl-prev i{
+    font-size: 30px;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50% , -50%);
+
+}
+
+.black-snackbar {
+    background: black !important;
+    color: white !important;
+  }
+
+
+/* 
+ */
+ 
